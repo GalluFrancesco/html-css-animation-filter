@@ -125,3 +125,11 @@
     filter: sepia(1) grayscale(.5);
 }
 
+.ex-8-img {
+    transition: 2s;
+}
+.ex-8-img:hover {
+    filter:  sepia(.1) grayscale(.7);
+    border-radius: 20px;
+}
+
